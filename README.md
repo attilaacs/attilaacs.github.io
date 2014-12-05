@@ -7,6 +7,6 @@ Some of this was found around the web:
 ======================================
 
 Loop for images on index.html
-=============================
+-------------
 source:
 http://stackoverflow.com/questions/25463865/in-jekyll-how-do-i-grab-a-posts-first-image
