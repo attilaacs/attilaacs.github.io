@@ -1,0 +1,11 @@
+# Site settings
+title: attilaacs
+email: attila.acs@gmail.com
+description: Trying to work out what I'll put here.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://attilaacs.com" # the base hostname & protocol for your site
+twitter_username: attilaacs
+github_username:  attilaacs
+
+# Build settings
+markdown: kramdown
