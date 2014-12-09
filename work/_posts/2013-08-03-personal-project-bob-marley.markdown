@@ -3,6 +3,7 @@ layout: post
 title:  "Personal Project: Bob Marley"
 date:   2013-03-08 01:00:00
 category: Digital-Drawing
+headerimage: personal-project-bob-marley.jpg
 ---
 
 Personal project of music and musicians

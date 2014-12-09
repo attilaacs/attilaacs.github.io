@@ -3,6 +3,7 @@ layout: post
 title:  "\"Blueprint\" Limited Edition T-Shirt"
 date:   2014-4-16 01:00:00
 category: Graphic-Design
+headerimage: blueprint-tshirt-design.jpg
 ---
 
 Behind every piece of art, music or performance is a chain of beautifully engineered piece of technology. Its job is to get out of the way and let creativity take centre stage. In this design I wanted to emphasize the science & technology that goes into the making of a piece of gear.

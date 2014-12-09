@@ -3,6 +3,7 @@ layout: post
 title:  "3D Product Visualisation"
 date:   2010-10-9 01:00:00
 category: 3D
+headerimage: 3d-product-visualisation.jpg
 ---
 
 3D modelling, texturing, lighting, rendering and post processing.

@@ -3,6 +3,7 @@ layout: post
 title:  "Stoney Roads Awards"
 date:   2014-8-8 01:00:00
 category: Programming
+headerimage: stoney-roads-awards-site.png
 ---
 
 Programming & backend for Stoney Roads Awards: a voting platform for musicians & producers. 

@@ -5,6 +5,7 @@ date:   2013-02-01 01:00:00
 categories: 
 - Programming
 - Graphic-Design
+headerimage: high-on-glue-leatherwork-website.png
 ---
 
 <img src="/assets/high-on-glue-leatherwork-website.png" />
