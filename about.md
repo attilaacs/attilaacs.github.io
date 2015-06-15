@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-There's nothing to see here. Yet.
+I'm Attila Acs and I'm a designer with frontend development tendencies. I currently live on the Gold Coast in Australia.
